@@ -17,4 +17,4 @@ Este é o meu portfólio desenvolvido com HTML, CSS e JavaScript. O projeto faz 
 - Design Responsivo: O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela, proporcionando uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
 ### Veja o projeto
-[Link do projeto]()
+[Link do projeto](https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio)
