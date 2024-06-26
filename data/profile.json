@@ -1,6 +1,6 @@
 {
   "nome": "Fabio Augusto",
-  "photo": "/assets/img/fabio.png",
+  "photo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/fabio.png",
   "job": "Full Stack developer",
   "localidade": "Porto Alegre - RS",
   "phone": "(51) 98198-7840",
@@ -9,47 +9,47 @@
     "hardSkills": [
       {
         "nome": "PHP",
-        "logo": "/assets/img/php.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/php.png"
       },
       {
         "nome": "Python",
-        "logo": "/assets/img/python.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/python.png"
       },
       {
         "nome": "PostgreSQL",
-        "logo": "/assets/img/postgreen.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/postgreen.png"
       },
       {
         "nome": "Mysql",
-        "logo": "/assets/img/mysql.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/mysql.png"
       },
       {
         "nome": "Docker",
-        "logo": "/assets/img/docker.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/docker.png"
       },
       {
         "nome": "Github",
-        "logo": "/assets/img/github.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/github.png"
       },
       {
         "nome": "Git",
-        "logo": "/assets/img/git.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/git.png"
       },
       {
         "nome": "Css",
-        "logo": "/assets/img/css.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/css.png"
       },
       {
         "nome": "Js",
-        "logo": "/assets/img/js.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/js.png"
       },
       {
         "nome": "Typescripy",
-        "logo": "/assets/img/type.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/type.png"
       },
       {
         "nome": "React",
-        "logo": "/assets/img/react.png"
+        "logo": "https://fabiocasadossites.github.io/desafio-js-2-portifolio-dio/assets/img/react.png"
       }
     ],
     "softSkills": [
