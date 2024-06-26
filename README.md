@@ -1,15 +1,20 @@
-![Imagem do projeto](src/img/pokedex.png)
+![Imagem do projeto](assets/img/portifolio.png)
 
 # Entrega de projeto - Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript | DIO
-Bem-vindo ao repositório da Pokédex Incrível! Este projeto foi desenvolvido como parte dos Desafios de Projeto da DIO, onde você não só entenderá a importância do Git/GitHub, mas também explorará o mundo fascinante dos Pokémon através do consumo de uma API REST.
+Este é o meu portfólio desenvolvido com HTML, CSS e JavaScript. O projeto faz uso de um arquivo JSON para armazenar os dados e utiliza uma API para recuperar essas informações de forma assíncrona, com async e await.
 
 ### Tecnologias Utilizadas
-- JavaScript: A linguagem principal utilizada para manipulação de dados e interação com a API do GitHub.
-- HTML/CSS: Estrutura e estilo.
-- Git/GitHub: Controle de versão e colaboração.
-- API REST do API do GitHub.
+- HTML5: para a estrutura do site.
+- CSS3: para a estilização e layout.
+- JavaScript: para a interatividade e manipulação dos dados.
+- JSON: para o armazenamento dos dados do portfólio.
+- API: para a recuperação dos dados do JSON de maneira assíncrona.
+- GitHub Pages
 
-### Funcionalidades da Pokédex
-- Busca de Pokémon: Pesquise por diferentes Pokémon pelo nome ou ID.
-- Detalhes do Pokémon: Veja informações detalhadas sobre cada Pokémon, incluindo tipo, habilidades e estatísticas.
-- Interface Interativa: Navegação fácil e intuitiva através de uma interface web atraente.
+### Funcionalidades
+- Recuperação de Dados: Os dados do portfólio são recuperados de um arquivo JSON através de uma chamada de API assíncrona.
+- Interatividade: O projeto utiliza JavaScript para adicionar interatividade e dinamismo às páginas.
+- Design Responsivo: O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela, proporcionando uma boa experiência tanto em dispositivos móveis quanto em desktops.
+
+### Veja o projeto
+[Link do projeto]()

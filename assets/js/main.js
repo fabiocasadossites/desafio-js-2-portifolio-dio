@@ -64,11 +64,21 @@ function updatePortfolio(profileData) {
         `<li>
             <h3 class="title github">${skill.nome}</h3>
             <a href="${skill.gitHub}" target="_blank">${skill.gitHub}</a>
-            <p>${skill.descricao}</p>
+            <p style='font-size:0.9em'>${skill.descricao}</p>
         </li>`
     ).join('')
 }
 
+function updateEducacao(profileData) {
+    const educacao = document.getElementById('profile.educacao')
+    educacao.innerHTML = profileData.educacao.map(skill =>
+        `<li>
+            <h3 class="title">${skill.nome} | ${skill.instituicao}</h3>
+            <p class="period">${skill.periodo.inicio} | ${skill.periodo.fim}</p>
+            <p>${skill.descricao}</p>
+        </li>`
+    ).join('')
+}
 
 (async () => {
     const profileData = await fetchProfileData()
@@ -78,4 +88,5 @@ function updatePortfolio(profileData) {
     updateIdiomas(profileData)
     updateExperiencias(profileData)
     updatePortfolio(profileData)
+    updateEducacao(profileData)
 })()
