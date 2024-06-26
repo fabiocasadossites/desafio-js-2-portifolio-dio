@@ -58,7 +58,7 @@
       "Organização",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Auto Gerenciado"
+      "Auto Gerenciamento"
     ]
   },
   "idiomas": [
@@ -127,14 +127,24 @@
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "nome": "Entrega de projeto - Construindo uma Pokédex com JavaScript | DIO",
+      "gitHub": "https://github.com/fabiocasadossites/desafio-js-1-dio",
+      "descricao": "Bem-vindo ao repositório da Pokédex Incrível! Este projeto foi desenvolvido como parte dos Desafios de Projeto da DIO, onde você não só entenderá a importância do Git/GitHub, mas também explorará o mundo fascinante dos Pokémon através do consumo de uma API REST."
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "nome": "Entrega de projeto - Clonando o Site da HBO Max com Animações em HTML e CSS | DIO",
+      "gitHub": "https://github.com/fabiocasadossites/desafio-5-css-dio",
+      "descricao": "Neste projeto, eu criei um clone do site da HBO Max, aplicando animações usando HTML e CSS. O objetivo é reproduzir a aparência e os efeitos visuais presentes no site original."
+    },
+    {
+      "nome": "Entrega de projeto - Construindo um Layout Responsivo Para o Site do Discord Com CSS | DIO",
+      "gitHub": "https://github.com/fabiocasadossites/desafio-4-css-dio",
+      "descricao": "Neste desafio, você terá a oportunidade de aplicar os conceitos aprendidos até agora para reproduzir a página da plataforma incrível do Discord. O foco principal será na responsividade usando CSS."
+    },
+    {
+      "nome": "Entrega de projeto - Reproduzindo a Listagem do YouTube com Grid Layout no CSS | DIO",
+      "gitHub": "https://github.com/fabiocasadossites/desafio-3-css-dio",
+      "descricao": "Neste desafio, você terá a oportunidade de colocar em prática os conceitos aprendidos, especialmente sobre Grid Layout, para construir uma página de listagem de vídeos no estilo do YouTube."
     }
   ],
   "experiencias": [
