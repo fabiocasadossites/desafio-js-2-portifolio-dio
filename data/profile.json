@@ -1,12 +1,9 @@
 {
   "nome": "Fabio Augusto",
-  "titulo": "Full Stack developer",
-  "localidade": {
-    "cidade": "Porto Alegre - ",
-    "estado": "RS",
-    "pais": "Brasil"
-  },
-  "telefone": "(51) 98198-7840",
+  "photo": "/assets/img/fabio.png",
+  "job": "Full Stack developer",
+  "localidade": "Porto Alegre - RS",
+  "phone": "(51) 98198-7840",
   "email": "fabio@fabioaugusto.dev",
   "skills": {
     "hardSkills": [
