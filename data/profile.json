@@ -1,0 +1,181 @@
+{
+  "nome": "Fabio Augusto",
+  "titulo": "Full Stack developer",
+  "localidade": {
+    "cidade": "Porto Alegre - ",
+    "estado": "RS",
+    "pais": "Brasil"
+  },
+  "telefone": "(51) 98198-7840",
+  "email": "fabio@fabioaugusto.dev",
+  "skills": {
+    "hardSkills": [
+      {
+        "nome": "PHP",
+        "logo": "/assets/img/php.png"
+      },
+      {
+        "nome": "Python",
+        "logo": "/assets/img/python.png"
+      },
+      {
+        "nome": "PostgreSQL",
+        "logo": "/assets/img/postgreen.png"
+      },
+      {
+        "nome": "Mysql",
+        "logo": "/assets/img/mysql.png"
+      },
+      {
+        "nome": "Docker",
+        "logo": "/assets/img/docker.png"
+      },
+      {
+        "nome": "Github",
+        "logo": "/assets/img/github.png"
+      },
+      {
+        "nome": "Git",
+        "logo": "/assets/img/git.png"
+      },
+      {
+        "nome": "Css",
+        "logo": "/assets/img/css.png"
+      },
+      {
+        "nome": "Js",
+        "logo": "/assets/img/js.png"
+      },
+      {
+        "nome": "Typescripy",
+        "logo": "/assets/img/type.png"
+      },
+      {
+        "nome": "React",
+        "logo": "/assets/img/react.png"
+      }
+    ],
+    "softSkills": [
+      "Liderança",
+      "Facilidade de comunicação",
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Auto Gerenciado"
+    ]
+  },
+  "idiomas": [
+    {
+      "nome": "Português",
+      "nivel": "Nativo"
+    },
+    {
+      "nome": "Inglês",
+      "nivel": "Básico"
+    }
+  ],
+  "educacao": [
+    {
+      "nome": "dio.me",
+      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "instituicao": "Digital Innovation One (DIO)",
+      "periodo": {
+        "inicio": "2024",
+        "fim": "Atualmente"
+      },
+      "certificados": [
+        {
+          "nome": "Formação PHP Experience",
+          "link": "https://www.dio.me/certificate/VZRVV8NT"
+        },
+        {
+          "nome": "SPTech Desenvolvimento Back-end",
+          "link": "https://www.dio.me/certificate/5AO46DQM"
+        },
+        {
+          "nome": "Formação Fundamentos de Inteligência Artificial",
+          "link": "https://www.dio.me/certificate/GAUANCD4"
+        },
+        {
+          "nome": "Formação HTML Web Developer",
+          "link": "https://www.dio.me/certificate/LIXRWZQ2"
+        },
+        {
+          "nome": "Formação Lógica de Programação",
+          "link": "https://www.dio.me/certificate/EUXEUPH5"
+        },
+        {
+          "nome": "Formação Github Certification",
+          "link": "https://www.dio.me/certificate/4SYLWUIZ"
+        },
+        {
+          "nome": "Formação CSS Web Developer",
+          "link": "https://www.dio.me/certificate/SGZIQZ5V"
+        },
+        {
+          "nome": "Formação JavaScript Developer",
+          "link": "https://www.dio.me/certificate/BA099F34"
+        }
+      ]
+    },
+    {
+      "nome": "Analise e desenvolvimento de sistemas",
+      "descricao": "",
+      "instituicao": "Estácio",
+      "periodo": {
+        "inicio": "2024",
+        "fim": "Atualmente"
+      }
+    }
+  ],
+  "portfolio": [
+    {
+      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+    },
+    {
+      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
+      "certificado": "https://www.dio.me/certificate/9A5090FC"
+    }
+  ],
+  "experiencias": [
+    {
+      "nome": "Cordenador de ensino",
+      "descricao": "Fui responsável por desenvolver o currículo e capacitar os professores e toda a equipe de ensino deste curso de informática.",
+      "instituicao": "Cedaspy",
+      "periodo": {
+        "inicio": "01/2012",
+        "fim": "01/2014"
+      }
+    },
+    {
+      "nome": "CEO | CTO",
+      "descricao": "Fundador de empresa especializada em desenvolvimento de sites e sistemas, com dezenas de projetos realizados ao longo dos anos.",
+      "instituicao": "Casa dos sites",
+      "periodo": {
+        "inicio": "01/2013",
+        "fim": "Atualmente"
+      }
+    },
+    {
+      "nome": "CTO",
+      "descricao": "Participei desta startup.",
+      "instituicao": "Busque Cursos",
+      "periodo": {
+        "inicio": "01/2015",
+        "fim": "01/2016"
+      }
+    },
+    {
+      "nome": "CTO",
+      "descricao": "Comecei como desenvolvedor full stack e, ao longo do tempo, fui promovido para liderar a área tecnológica de toda a empresa.",
+      "instituicao": "Nypag, EA Bank",
+      "periodo": {
+        "inicio": "01/2020",
+        "fim": "Atualmente"
+      }
+    }
+  ]
+}
